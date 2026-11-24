@@ -1,0 +1,6 @@
+{
+  "name": "Tiger Game.com Emulator",
+  "description": "Retro Tiger Game.com handheld console emulator supporting .tgc ROM loading, SM8521 CPU execution, touchscreen input, Web Audio synthesis, and persistent savestates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
